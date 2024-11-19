@@ -7,7 +7,7 @@ Basic template for a **Chase/Catch game** built using Lua. The game features a *
 ---
 
 
-> [!NOTE]   
+> [!TIP]   
 > If you don't want to go through the setup step by step, you can directly access the game from the Steam Workshop.
 > 
 > ```diff
