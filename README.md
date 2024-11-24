@@ -6,6 +6,11 @@ Basic template for a **Chase/Catch game** built using Lua. The game features a *
 
 ---
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a8d1387c-41e7-4cf3-8042-4aa0f2d026d3" alt="Chase/Catch Game GIF" />
+</p>
+
+---
 
 > [!TIP]   
 > If you don't want to go through the setup step by step, you can directly access the game from the Steam Workshop.
@@ -13,5 +18,4 @@ Basic template for a **Chase/Catch game** built using Lua. The game features a *
 > ```diff
 > https://steamcommunity.com/sharedfiles/filedetails/?id=3355044286
 > ```
-
 
