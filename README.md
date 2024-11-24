@@ -15,7 +15,6 @@ Basic template for a **Chase/Catch game** built using Lua. The game features a *
 > [!TIP]   
 > If you don't want to go through the setup step by step, you can directly access the game from the Steam Workshop.
 > 
-> ```diff
-> https://steamcommunity.com/sharedfiles/filedetails/?id=3355044286
-> ```
+> [Click here to access the game on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3355044286)
+
 
